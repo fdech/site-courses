@@ -1,0 +1,11 @@
+[{
+    "title": "Angular 8",
+    "price": "14000",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/800px-Angular_full_color_logo.svg.png",
+    "id": "f2da2d6e-c202-457a-af08-ad1e497b6b00"
+}, {
+    "title": "React (V 2)",
+    "price": "20000",
+    "image": "https://depix.ru/uploads/Page/243/react.svg",
+    "id": "121cb8cb-0815-42ac-86f8-8ae5b6f756a6"
+}]
